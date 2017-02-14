@@ -1,0 +1,14 @@
+{
+    "name": "stupidlysimple/hack",
+    "description": "StupidlySimple framework for Hack - MVC framework written entirely in Hack Programming Language",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fariz Luqman",
+            "email": "farizluqman@simplelinux.my"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
