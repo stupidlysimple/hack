@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "9293562c190434627aeef9c58f2c2c39",
+    "packages": [
+        {
+            "name": "stupidlysimple/hack-core",
+            "version": "0.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/stupidlysimple/hack-core.git",
+                "reference": "6f24a8fd9c270558baafebf308766d5adfbf1b88"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/stupidlysimple/hack-core/zipball/6f24a8fd9c270558baafebf308766d5adfbf1b88",
+                "reference": "6f24a8fd9c270558baafebf308766d5adfbf1b88",
+                "shasum": ""
+            },
+            "type": "project",
+            "autoload": {
+                "psr-4": {
+                    "Core\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Fariz Luqman",
+                    "email": "fariz.fnb@gmail.com",
+                    "homepage": "https://stupidlysimple.github.io",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Core packages for StupidlySimple Hack Framework",
+            "keywords": [
+                "hack",
+                "hack framework",
+                "hhvm",
+                "lazy",
+                "micro framework",
+                "stupidly simple"
+            ],
+            "time": "2017-02-14T16:51:51+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

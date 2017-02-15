@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "stupidlysimple/hack-core": "^0.0.1"
+    }
 }
